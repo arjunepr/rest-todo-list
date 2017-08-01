@@ -1,0 +1,9 @@
+{
+  "name": "rest-todo-list",
+  "version": "1.0.0",
+  "description": "A simple RESTful API.",
+  "main": "index.js",
+  "repository": "git@github.com:arjunepr/rest-todo-list.git",
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "MIT"
+}
