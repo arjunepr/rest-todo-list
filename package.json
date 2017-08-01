@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "git@github.com:arjunepr/rest-todo-list.git",
   "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "hapi": "^16.5.0",
+    "hapi-auth-jwt": "^4.0.0",
+    "jsonwebtoken": "^7.4.1",
+    "knex": "^0.13.0",
+    "mysql2": "^1.3.6",
+    "nodemon": "^1.11.0"
+  }
 }
