@@ -6,7 +6,7 @@ const { env } = require('process');
 
 const commonConfig = {
   migrations: { tableName: 'db_migrations' },
-  seeds: { tableName: './seeders' },
+  seeds: { directory: './seeders' },
 
   client: 'mysql2',
   connection: {
