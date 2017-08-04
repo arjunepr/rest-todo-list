@@ -29,6 +29,7 @@
     "chai-http": "^3.0.0",
     "mocha": "^3.5.0",
     "nodemon": "^1.11.0",
-    "webpack": "^3.4.1"
+    "webpack": "^3.4.1",
+    "webpack-merge": "^4.1.0"
   }
 }
